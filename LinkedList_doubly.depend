@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553424849 source:c:\users\atakan\desktop\dersvs\codeblocks c\linkedlist_doubly\main.c
+	<stdio.h>
+	<stdlib.h>
+
